@@ -22,19 +22,19 @@ let updateTimer;
 
 const music_list = [
     {
-        img : 'images/stay.png',
+        img : 'image/photo_2025-07-03_04-13-21.jpg',
         name : 'Lose My Mind',
         artist : 'Don Toliver',
         music : 'music/Don Toliver - Lose My Mind (feat. Doja Cat).mp3'
     },
     {
-        img : 'images/fallingdown.jpg',
+        img : 'image/photo_2025-07-03_04-13-21.jpg',
         name : 'Just Keep Watching',
         artist : 'Tate McRae',
         music : 'music/Tate McRae - Just Keep Watching (From F1® The Movie).mp3'
     },
     {
-        img : 'images/faded.png',
+        img : 'image/photo_2025-07-03_04-13-21.jpg',
         name : 'Just Keep Watching (From F1® The Movie)',
         artist : 'Tate McRae',
         music : 'music/Tate McRae - Just Keep Watching (From F1® The Movie).mp3'
