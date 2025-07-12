@@ -36,8 +36,8 @@ const music_list = [
     {
         img : 'image/photo_2025-07-03_04-13-21.jpg',
         name : 'Messy',
-        artist : 'Rosé',
-        music : 'music/Rosé - Messy.mp3'
+        artist : 'Rose',
+        music : 'music/Rose - Messy.mp3'
     },
     {
         img : 'images/ratherbe.jpg',
