@@ -23,15 +23,15 @@ let updateTimer;
 const music_list = [
     {
         img : 'images/stay.png',
-        name : 'Stay',
-        artist : 'DonToliver - Lose My Mind',
+        name : 'Lose My Mind',
+        artist : 'Don Toliver',
         music : 'music/Don Toliver - Lose My Mind (feat. Doja Cat).mp3'
     },
     {
         img : 'images/fallingdown.jpg',
-        name : 'Falling Down',
-        artist : 'Wid Cards',
-        music : 'music/fallingdown.mp3'
+        name : 'FJust Keep Watching',
+        artist : 'Tate McRae',
+        music : 'music/Tate McRae - Just Keep Watching (From F1® The Movie).mp3'
     },
     {
         img : 'images/faded.png',
