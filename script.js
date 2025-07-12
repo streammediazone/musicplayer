@@ -35,9 +35,9 @@ const music_list = [
     },
     {
         img : 'image/photo_2025-07-03_04-13-21.jpg',
-        name : 'Just Keep Watching (From F1® The Movie)',
-        artist : 'Tate McRae',
-        music : 'music/Tate McRae - Just Keep Watching (From F1® The Movie).mp3'
+        name : 'Messy',
+        artist : 'Rosé',
+        music : 'music/Rosé - Messy.mp3'
     },
     {
         img : 'images/ratherbe.jpg',
