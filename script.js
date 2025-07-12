@@ -29,7 +29,7 @@ const music_list = [
     },
     {
         img : 'images/fallingdown.jpg',
-        name : 'FJust Keep Watching',
+        name : 'Just Keep Watching',
         artist : 'Tate McRae',
         music : 'music/Tate McRae - Just Keep Watching (From F1® The Movie).mp3'
     },
