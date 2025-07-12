@@ -24,8 +24,8 @@ const music_list = [
     {
         img : 'images/stay.png',
         name : 'Stay',
-        artist : 'The Kid LAROI, Justin Bieber',
-        music : 'music/stay.mp3'
+        artist : 'DonToliver - Lose My Mind',
+        music : 'music/Don Toliver - Lose My Mind (feat. Doja Cat).mp3'
     },
     {
         img : 'images/fallingdown.jpg',
