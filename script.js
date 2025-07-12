@@ -35,9 +35,9 @@ const music_list = [
     },
     {
         img : 'images/faded.png',
-        name : 'Faded',
-        artist : 'Alan Walker',
-        music : 'music/Faded.mp3'
+        name : 'Just Keep Watching (From F1® The Movie)',
+        artist : 'Tate McRae',
+        music : 'music/Tate McRae - Just Keep Watching (From F1® The Movie).mp3'
     },
     {
         img : 'images/ratherbe.jpg',
