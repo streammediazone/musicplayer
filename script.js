@@ -38,12 +38,6 @@ const music_list = [
         name : 'Messy',
         artist : 'Rose',
         music : 'music/Rose - Messy.mp3'
-    },
-    {
-        img : 'images/ratherbe.jpg',
-        name : 'Rather Be',
-        artist : 'Clean Bandit',
-        music : 'music/Rather Be.mp3'
     }
 ];
 
